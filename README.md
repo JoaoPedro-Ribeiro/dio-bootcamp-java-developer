@@ -12,10 +12,10 @@ I'm watching DIO's java developer formation classes to learn this language. It's
 - What is Java? ✅ <br>
 - Java History ✅ <br>
 - How to set up my development environment ✅ <br>
-- Class Anatomy ✅ <br>
+- Anatomy of Classes ✅ <br>
 - Types and Variables ✅ <br>
 - Operators ✅ <br>
-- Methods <br>
+- Methods ✅ <br>
 - Scope <br>
 - Reserved Words <br> 
 - Java Doc <br>
