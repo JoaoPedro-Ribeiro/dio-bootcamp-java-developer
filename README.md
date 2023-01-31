@@ -14,7 +14,7 @@ I'm watching DIO's java developer formation classes to learn this language. It's
 - How to set up my development environment ✅ <br>
 - Class Anatomy ✅ <br>
 - Types and Variables ✅ <br>
-- Operators <br>
+- Operators ✅ <br>
 - Methods <br>
 - Scope <br>
 - Reserved Words <br> 
