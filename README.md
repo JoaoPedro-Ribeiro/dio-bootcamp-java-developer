@@ -1,8 +1,8 @@
 <h1 align="center"> :dart: Purpose of the repository </h1>
-  My goal with this repository is to improve my ability in Java, clean code and clean architecture.
+<p align="center"> My goal with this repository is to improve my ability in Java, clean code and clean architecture. </p>
 
 <h2> ❓ What am I studying? </h2>
-  I'm watching DIO's java developer formation classes to learn this language. It's a bootcamp and covers everything from basics to advanced language skills with practical classes, various exercises and projects.
+I'm watching DIO's java developer formation classes to learn this language. It's a bootcamp and covers everything from basics to advanced language skills with practical classes, various exercises and projects.
 
 <h2> So what I already saw until now? </h2>
 <h3> 1- Fundamentals </h3>
