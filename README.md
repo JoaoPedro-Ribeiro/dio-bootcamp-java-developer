@@ -17,9 +17,10 @@ I'm watching DIO's java developer formation classes to learn this language. It's
 - Operators ✅ <br>
 - Methods ✅ <br>
 - Scope ✅ <br>
-- Reserved Words <br> 
-- Java Doc <br>
-- Terminal and Arguments <br> 
+- Reserved Words ✅ <br> 
+- Java Doc ✅ <br>
+- Terminal ✅ <br>
+- Arguments ✅ <br> 
 
 <h3> 2- Scope and Control Structure </h3>
 .
