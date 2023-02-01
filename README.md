@@ -16,7 +16,7 @@ I'm watching DIO's java developer formation classes to learn this language. It's
 - Types and Variables ✅ <br>
 - Operators ✅ <br>
 - Methods ✅ <br>
-- Scope <br>
+- Scope ✅ <br>
 - Reserved Words <br> 
 - Java Doc <br>
 - Terminal and Arguments <br> 
