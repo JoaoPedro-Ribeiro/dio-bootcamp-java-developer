@@ -23,6 +23,9 @@ I'm watching DIO's java developer formation classes to learn this language. It's
 - Arguments ✅ <br> 
 
 <h3> 2- Scope and Control Structure </h3>
-.
-.
-.
+- Types of Control Structures ✅ <br>
+- Simple Conditionals ✅ <br>
+- Compound Conditionals ✅ <br>
+- Chained Conditionals ✅ <br>
+- Ternary ✅ <br>
+- Switch Case ✅ <br>
